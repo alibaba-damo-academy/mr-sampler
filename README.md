@@ -1,4 +1,4 @@
-## MRS: A Fast Sampler for Mean Reverting Diffusion Based on ODE and SDE Solvers <br><sub>Official PyTorch Implementation. </sub>
+## MRS: A Fast Sampler for Mean Reverting Diffusion Based on ODE and SDE Solvers 
 
 ICLR 2025 Spotlight | [paper](https://arxiv.org/abs/2502.07856)
 
